@@ -1,0 +1,11 @@
+Parameter,Value,Unit_or_note
+Magnetic inclination,-8.94,degrees
+Magnetic declination,0.21,degrees
+Maximum RTE gain,1.00,dimensionless
+Median RTE gain,0.988,dimensionless
+Robust condition number max/P1,7.84,dimensionless
+Valid overlapping cells,17777198,cells
+Valid overlap,97.03,percent
+TMI high-frequency standard deviation,15.69,nT
+RTE high-frequency standard deviation,14.95,nT
+RTE/TMI high-frequency noise ratio,0.953,dimensionless

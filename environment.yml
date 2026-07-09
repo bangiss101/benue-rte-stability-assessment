@@ -1,0 +1,11 @@
+name: maggrid
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - pygmt
+  - netcdf4
+  - h5netcdf

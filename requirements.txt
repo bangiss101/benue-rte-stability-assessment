@@ -1,0 +1,6 @@
+numpy
+pandas
+scipy
+pygmt
+netcdf4
+h5netcdf
