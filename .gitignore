@@ -1,0 +1,41 @@
+# Raw and processed geophysical data
+*.csv
+*.nc
+*.grd
+*.tif
+*.tiff
+*.ers
+*.dat
+*.xyz
+
+# Allow derived reproducibility summary tables
+!outputs/*.csv
+
+# GIS and project files
+*.gdb/
+*.mxd
+*.aprx
+*.qgz
+*.qgs
+*.ovr
+*.aux.xml
+*.tfw
+
+# Python cache and environments
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+env/
+
+# Large outputs and temporary files
+temp/
+tmp/
+scratch/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
